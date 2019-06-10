@@ -1,0 +1,5 @@
+liquibaseUsername := "migrate"
+
+liquibasePassword := "migrate"
+
+liquibaseUrl      := "jdbc:postgresql://localhost:5432/usdw?createDatabaseIfNotExist=true&useSSL=false&nullNamePatternMatchesAll=true"
